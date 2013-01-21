@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -10,8 +11,6 @@
 
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-#!/usr/bin/python
 import csv, os, re, sys
 import codecs
 
@@ -75,6 +74,7 @@ def main():
     latex_cards = ""
     anki_cards = []
     set_name = None
+    filename = 0
 
     with open(VOCAB_FILE, 'rb') as csvfile:
         reader = csv.reader(csvfile, delimiter=' ', quotechar='|')
@@ -90,9 +90,9 @@ def main():
 
             # Save cards for each of the sets.
             if set_name is not None and set_name != a_card["SetNameEng"]:
-                wrap_latex_cards(latex_cards, row[0])
+                wrap_latex_cards(latex_cards, set_name)
                 latex_cards = generate_latex_card(a_card)
-                wrap_anki_cards(anki_cards, row[0])
+                wrap_anki_cards(anki_cards, set_name)
                 anki_cards = generate_anki_card(a_card)
             else:
                 latex_cards += generate_latex_card(a_card)
@@ -100,6 +100,10 @@ def main():
 
             set_name = a_card["SetNameEng"]
     
+    # Last set.
+    wrap_latex_cards(latex_cards, set_name)
+    wrap_anki_cards(anki_cards, set_name)
+
     # Attempt to generate PDFs from Latex.
     pdf_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'output', 'pdf')
 
@@ -108,7 +112,7 @@ def main():
             file_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'output', 'latex', f)
 
             cmd = "latex --output-format=pdf --output-directory=\"" + pdf_dir + "\" \"" + file_dir + "\""
-            os.system(cmd)
+            #os.system(cmd)
 
 if __name__ == "__main__":
     main()
