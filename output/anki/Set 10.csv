@@ -1,121 +1,121 @@
 "[Copyright & License Notice]{LaTeX template is copyrighted by its author and licensed under GPL. Rendered documents and code used to generate them is copyrighted and is distributed under GNU General Public License. If you have any questions, please contact the author at nikita [at] pchelin.ca]",Copyright & License Notice
-beard<br>[Set 10 - Nouns],брада<br>[Сет 10 - Именки]
-cousin<br>[Set 10 - Nouns],"братучед, братучетка<br>[Сет 10 - Именки]"
-necktie<br>[Set 10 - Nouns],вратоврска<br>[Сет 10 - Именки]
-uncle (mother’s brother)<br>[Set 10 - Nouns],вујко<br>[Сет 10 - Именки]
-aunt (mother’s brother wife)<br>[Set 10 - Nouns],вујна<br>[Сет 10 - Именки]
-girl<br>[Set 10 - Nouns],девојка<br>[Сет 10 - Именки]
-little (young) girl<br>[Set 10 - Nouns],девојче<br>[Сет 10 - Именки]
-skirt<br>[Set 10 - Nouns],здолниште<br>[Сет 10 - Именки]
-interest<br>[Set 10 - Nouns],интерес<br>[Сет 10 - Именки]
-overcoat<br>[Set 10 - Nouns],капут<br>[Сет 10 - Именки]
-character<br>[Set 10 - Nouns],карактер<br>[Сет 10 - Именки]
-horse<br>[Set 10 - Nouns],коњ<br>[Сет 10 - Именки]
-hair<br>[Set 10 - Nouns],коса<br>[Сет 10 - Именки]
-necktie<br>[Set 10 - Nouns],кравата<br>[Сет 10 - Именки]
-contact lenses<br>[Set 10 - Nouns],леќи<br>[Сет 10 - Именки]
-face<br>[Set 10 - Nouns],лице<br>[Сет 10 - Именки]
-donkey<br>[Set 10 - Nouns],магаре<br>[Сет 10 - Именки]
-Tshirt<br>[Set 10 - Nouns],маица<br>[Сет 10 - Именки]
-girl<br>[Set 10 - Nouns],момиче<br>[Сет 10 - Именки]
-boy<br>[Set 10 - Nouns],момче<br>[Сет 10 - Именки]
-motorcycle<br>[Set 10 - Nouns],мотор<br>[Сет 10 - Именки]
-moustache<br>[Set 10 - Nouns],мустаќи<br>[Сет 10 - Именки]
-performance<br>[Set 10 - Nouns],настап<br>[Сет 10 - Именки]
-earring<br>[Set 10 - Nouns],обетка<br>[Сет 10 - Именки]
-answer<br>[Set 10 - Nouns],одговор<br>[Сет 10 - Именки]
-eye (pl. eyes)<br>[Set 10 - Nouns],око (мн. очи)<br>[Сет 10 - Именки]
-glasses<br>[Set 10 - Nouns],очила<br>[Сет 10 - Именки]
-trip<br>[Set 10 - Nouns],патување<br>[Сет 10 - Именки]
-question<br>[Set 10 - Nouns],прашање<br>[Сет 10 - Именки]
-lecturer<br>[Set 10 - Nouns],предавач<br>[Сет 10 - Именки]
-dictionary<br>[Set 10 - Nouns],речник<br>[Сет 10 - Именки]
-rock group<br>[Set 10 - Nouns],рок група<br>[Сет 10 - Именки]
-uncle (father’s brother)<br>[Set 10 - Nouns],стрико<br>[Сет 10 - Именки]
-aunt (father’s brother’s wife)<br>[Set 10 - Nouns],стрина<br>[Сет 10 - Именки]
-tattoo<br>[Set 10 - Nouns],тетоважа<br>[Сет 10 - Именки]
-uncle<br>[Set 10 - Nouns],тетин<br>[Сет 10 - Именки]
-aunt<br>[Set 10 - Nouns],тетка<br>[Сет 10 - Именки]
-"ear, ears<br>[Set 10 - Nouns]",уво (мн. уши)<br>[Сет 10 - Именки]
-jeans<br>[Set 10 - Nouns],фармерки<br>[Сет 10 - Именки]
-dress<br>[Set 10 - Nouns],фустан<br>[Сет 10 - Именки]
-ambitious<br>[Set 10 - Adjectives],амбициозен<br>[Сет 10 - Придавки]
-slow; slowwitted<br>[Set 10 - Adjectives],бавен<br>[Сет 10 - Придавки]
+beard<br>[Set 10 - Nouns],"бр<span style=""font-weight:600;"">а</span>да<br>[Сет 10 - Именки]"
+cousin<br>[Set 10 - Nouns],"бр<span style=""font-weight:600;"">а</span>тучед, брат<span style=""font-weight:600;"">у</span>четка<br>[Сет 10 - Именки]"
+necktie<br>[Set 10 - Nouns],"вр<span style=""font-weight:600;"">а</span>товрска<br>[Сет 10 - Именки]"
+uncle (mother’s brother)<br>[Set 10 - Nouns],"в<span style=""font-weight:600;"">у</span>јко<br>[Сет 10 - Именки]"
+aunt (mother’s brother wife)<br>[Set 10 - Nouns],"в<span style=""font-weight:600;"">у</span>јна<br>[Сет 10 - Именки]"
+girl<br>[Set 10 - Nouns],"д<span style=""font-weight:600;"">е</span>војка<br>[Сет 10 - Именки]"
+little (young) girl<br>[Set 10 - Nouns],"д<span style=""font-weight:600;"">е</span>војче<br>[Сет 10 - Именки]"
+skirt<br>[Set 10 - Nouns],"зд<span style=""font-weight:600;"">о</span>лниште<br>[Сет 10 - Именки]"
+interest<br>[Set 10 - Nouns],"<span style=""font-weight:600;"">и</span>нтерес<br>[Сет 10 - Именки]"
+overcoat<br>[Set 10 - Nouns],"к<span style=""font-weight:600;"">а</span>пут<br>[Сет 10 - Именки]"
+character<br>[Set 10 - Nouns],"к<span style=""font-weight:600;"">а</span>рактер<br>[Сет 10 - Именки]"
+horse<br>[Set 10 - Nouns],"к<span style=""font-weight:600;"">о</span>њ<br>[Сет 10 - Именки]"
+hair<br>[Set 10 - Nouns],"к<span style=""font-weight:600;"">о</span>са<br>[Сет 10 - Именки]"
+necktie<br>[Set 10 - Nouns],"крав<span style=""font-weight:600;"">а</span>та<br>[Сет 10 - Именки]"
+contact lenses<br>[Set 10 - Nouns],"л<span style=""font-weight:600;"">е</span>ќи<br>[Сет 10 - Именки]"
+face<br>[Set 10 - Nouns],"л<span style=""font-weight:600;"">и</span>це<br>[Сет 10 - Именки]"
+donkey<br>[Set 10 - Nouns],"м<span style=""font-weight:600;"">а</span>гаре<br>[Сет 10 - Именки]"
+Tshirt<br>[Set 10 - Nouns],"м<span style=""font-weight:600;"">а</span>ица<br>[Сет 10 - Именки]"
+girl<br>[Set 10 - Nouns],"м<span style=""font-weight:600;"">о</span>миче<br>[Сет 10 - Именки]"
+boy<br>[Set 10 - Nouns],"м<span style=""font-weight:600;"">о</span>мче<br>[Сет 10 - Именки]"
+motorcycle<br>[Set 10 - Nouns],"м<span style=""font-weight:600;"">о</span>тор<br>[Сет 10 - Именки]"
+moustache<br>[Set 10 - Nouns],"м<span style=""font-weight:600;"">у</span>стаќи<br>[Сет 10 - Именки]"
+performance<br>[Set 10 - Nouns],"н<span style=""font-weight:600;"">а</span>стап<br>[Сет 10 - Именки]"
+earring<br>[Set 10 - Nouns],"<span style=""font-weight:600;"">о</span>бетка<br>[Сет 10 - Именки]"
+answer<br>[Set 10 - Nouns],"<span style=""font-weight:600;"">о</span>дговор<br>[Сет 10 - Именки]"
+eye (pl. eyes)<br>[Set 10 - Nouns],"<span style=""font-weight:600;"">о</span>ко (мн. <span style=""font-weight:600;"">о</span>чи)<br>[Сет 10 - Именки]"
+glasses<br>[Set 10 - Nouns],"<span style=""font-weight:600;"">о</span>чила<br>[Сет 10 - Именки]"
+trip<br>[Set 10 - Nouns],"пат<span style=""font-weight:600;"">у</span>вање<br>[Сет 10 - Именки]"
+question<br>[Set 10 - Nouns],"пр<span style=""font-weight:600;"">а</span>шање<br>[Сет 10 - Именки]"
+lecturer<br>[Set 10 - Nouns],"пр<span style=""font-weight:600;"">е</span>давач<br>[Сет 10 - Именки]"
+dictionary<br>[Set 10 - Nouns],"р<span style=""font-weight:600;"">е</span>чник<br>[Сет 10 - Именки]"
+rock group<br>[Set 10 - Nouns],"рок гр<span style=""font-weight:600;"">у</span>па<br>[Сет 10 - Именки]"
+uncle (father’s brother)<br>[Set 10 - Nouns],"стр<span style=""font-weight:600;"">и</span>ко<br>[Сет 10 - Именки]"
+aunt (father’s brother’s wife)<br>[Set 10 - Nouns],"стр<span style=""font-weight:600;"">и</span>на<br>[Сет 10 - Именки]"
+tattoo<br>[Set 10 - Nouns],"тетов<span style=""font-weight:600;"">а</span>жа<br>[Сет 10 - Именки]"
+uncle<br>[Set 10 - Nouns],"т<span style=""font-weight:600;"">е</span>тин<br>[Сет 10 - Именки]"
+aunt<br>[Set 10 - Nouns],"т<span style=""font-weight:600;"">е</span>тка<br>[Сет 10 - Именки]"
+"ear, ears<br>[Set 10 - Nouns]","<span style=""font-weight:600;"">у</span>во (мн. <span style=""font-weight:600;"">у</span>ши)<br>[Сет 10 - Именки]"
+jeans<br>[Set 10 - Nouns],"ф<span style=""font-weight:600;"">а</span>рмерки<br>[Сет 10 - Именки]"
+dress<br>[Set 10 - Nouns],"ф<span style=""font-weight:600;"">у</span>стан<br>[Сет 10 - Именки]"
+ambitious<br>[Set 10 - Adjectives],"амбици<span style=""font-weight:600;"">о</span>з<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
+slow; slowwitted<br>[Set 10 - Adjectives],"б<span style=""font-weight:600;"">а</span>в<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
 beige<br>[Set 10 - Adjectives],беж<br>[Сет 10 - Придавки]
-wealthy<br>[Set 10 - Adjectives],богат<br>[Сет 10 - Придавки]
+wealthy<br>[Set 10 - Adjectives],"б<span style=""font-weight:600;"">о</span>гат<br>[Сет 10 - Придавки]"
 quick; quickwitted<br>[Set 10 - Adjectives],брз<br>[Сет 10 - Придавки]
-"faithful, loyal<br>[Set 10 - Adjectives]",верен<br>[Сет 10 - Придавки]
-"cheerful, happy<br>[Set 10 - Adjectives]",весел<br>[Сет 10 - Придавки]
-violet<br>[Set 10 - Adjectives],виолетов<br>[Сет 10 - Придавки]
-curly<br>[Set 10 - Adjectives],виткан<br>[Сет 10 - Придавки]
-"diligent, industrious<br>[Set 10 - Adjectives]",вреден<br>[Сет 10 - Придавки]
+"faithful, loyal<br>[Set 10 - Adjectives]","в<span style=""font-weight:600;"">е</span>р<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
+"cheerful, happy<br>[Set 10 - Adjectives]","в<span style=""font-weight:600;"">е</span>сел<br>[Сет 10 - Придавки]"
+violet<br>[Set 10 - Adjectives],"ви<span style=""font-weight:600;"">о</span>летов<br>[Сет 10 - Придавки]"
+curly<br>[Set 10 - Adjectives],"в<span style=""font-weight:600;"">и</span>ткан<br>[Сет 10 - Придавки]"
+"diligent, industrious<br>[Set 10 - Adjectives]","вр<span style=""font-weight:600;"">е</span>д<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
 "gay, homosexual<br>[Set 10 - Adjectives]",геј<br>[Сет 10 - Придавки]
 ugly<br>[Set 10 - Adjectives],грд<br>[Сет 10 - Придавки]
-fat<br>[Set 10 - Adjectives],дебел<br>[Сет 10 - Придавки]
+fat<br>[Set 10 - Adjectives],"д<span style=""font-weight:600;"">е</span>бел<br>[Сет 10 - Придавки]"
 long<br>[Set 10 - Adjectives],долг<br>[Сет 10 - Придавки]
-friendly<br>[Set 10 - Adjectives],друштвен<br>[Сет 10 - Придавки]
-"economical, prudent<br>[Set 10 - Adjectives]",економичен<br>[Сет 10 - Придавки]
-elegant<br>[Set 10 - Adjectives],елегантен<br>[Сет 10 - Придавки]
-"female, feminine<br>[Set 10 - Adjectives]",женски<br>[Сет 10 - Придавки]
-female (girl child)<br>[Set 10 - Adjectives],женско (дете)<br>[Сет 10 - Придавки]
-forbidden<br>[Set 10 - Adjectives],забранет<br>[Сет 10 - Придавки]
-gold<br>[Set 10 - Adjectives],златен<br>[Сет 10 - Придавки]
-(un)intelligent<br>[Set 10 - Adjectives],интелигентен<br>[Сет 10 - Придавки]
-"shrewd, sly, clever<br>[Set 10 - Adjectives]",итар<br>[Сет 10 - Придавки]
-"coffeecolored, brown<br>[Set 10 - Adjectives]",кафен<br>[Сет 10 - Придавки]
-conservative<br>[Set 10 - Adjectives],конзервативен<br>[Сет 10 - Придавки]
-short<br>[Set 10 - Adjectives],краток<br>[Сет 10 - Придавки]
-"male, masculine<br>[Set 10 - Adjectives]",машки<br>[Сет 10 - Придавки]
-male (boy child)<br>[Set 10 - Adjectives],машко (дете)<br>[Сет 10 - Придавки]
-blue (purplish)<br>[Set 10 - Adjectives],модар<br>[Сет 10 - Придавки]
+friendly<br>[Set 10 - Adjectives],"др<span style=""font-weight:600;"">у</span>штвен<br>[Сет 10 - Придавки]"
+"economical, prudent<br>[Set 10 - Adjectives]","екон<span style=""font-weight:600;"">о</span>мичен<br>[Сет 10 - Придавки]"
+elegant<br>[Set 10 - Adjectives],"елег<span style=""font-weight:600;"">а</span>нт<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
+"female, feminine<br>[Set 10 - Adjectives]","ж<span style=""font-weight:600;"">е</span>нски<br>[Сет 10 - Придавки]"
+female (girl child)<br>[Set 10 - Adjectives],"ж<span style=""font-weight:600;"">е</span>нско (д<span style=""font-weight:600;"">е</span>те)<br>[Сет 10 - Придавки]"
+forbidden<br>[Set 10 - Adjectives],"з<span style=""font-weight:600;"">а</span>бранет<br>[Сет 10 - Придавки]"
+gold<br>[Set 10 - Adjectives],"зл<span style=""font-weight:600;"">а</span>т<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
+(un)intelligent<br>[Set 10 - Adjectives],"интелиг<span style=""font-weight:600;"">е</span>нт<span style=""text-decoration: underline;"">е</span>н, неинтелиг<span style=""font-weight:600;"">е</span>нт<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
+"shrewd, sly, clever<br>[Set 10 - Adjectives]","<span style=""font-weight:600;"">и</span>т<span style=""text-decoration: underline;"">а</span>р<br>[Сет 10 - Придавки]"
+"coffeecolored, brown<br>[Set 10 - Adjectives]","к<span style=""font-weight:600;"">а</span>фен<br>[Сет 10 - Придавки]"
+conservative<br>[Set 10 - Adjectives],"конзерват<span style=""font-weight:600;"">и</span>в<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
+short<br>[Set 10 - Adjectives],"кр<span style=""font-weight:600;"">а</span>т<span style=""text-decoration: underline;"">о</span>к<br>[Сет 10 - Придавки]"
+"male, masculine<br>[Set 10 - Adjectives]","м<span style=""font-weight:600;"">а</span>шки<br>[Сет 10 - Придавки]"
+male (boy child)<br>[Set 10 - Adjectives],"м<span style=""font-weight:600;"">а</span>шко (д<span style=""font-weight:600;"">е</span>те)<br>[Сет 10 - Придавки]"
+blue (purplish)<br>[Set 10 - Adjectives],"м<span style=""font-weight:600;"">о</span>д<span style=""text-decoration: underline;"">а</span>р<br>[Сет 10 - Придавки]"
 lazy<br>[Set 10 - Adjectives],мрзлив<br>[Сет 10 - Придавки]
-"smiling, laughing<br>[Set 10 - Adjectives]",насмеан<br>[Сет 10 - Придавки]
-unintelligent<br>[Set 10 - Adjectives],неинтелигентен<br>[Сет 10 - Придавки]
-unexpected<br>[Set 10 - Adjectives],неочекуван<br>[Сет 10 - Придавки]
-unpleasant<br>[Set 10 - Adjectives],непријатен<br>[Сет 10 - Придавки]
-"dishonest, unfair, untrustworthy<br>[Set 10 - Adjectives]",нечесен<br>[Сет 10 - Придавки]
+"smiling, laughing<br>[Set 10 - Adjectives]","н<span style=""font-weight:600;"">а</span>смеан<br>[Сет 10 - Придавки]"
+unintelligent<br>[Set 10 - Adjectives],"неинтелиг<span style=""font-weight:600;"">е</span>нт<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
+unexpected<br>[Set 10 - Adjectives],"неоч<span style=""font-weight:600;"">е</span>куван<br>[Сет 10 - Придавки]"
+unpleasant<br>[Set 10 - Adjectives],"непр<span style=""font-weight:600;"">и</span>јат<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
+"dishonest, unfair, untrustworthy<br>[Set 10 - Adjectives]","н<span style=""font-weight:600;"">е</span>чесен<br>[Сет 10 - Придавки]"
 blue; blond hair<br>[Set 10 - Adjectives],плав<br>[Сет 10 - Придавки]
-greyhaired<br>[Set 10 - Adjectives],побелен<br>[Сет 10 - Придавки]
+greyhaired<br>[Set 10 - Adjectives],"п<span style=""font-weight:600;"">о</span>белен<br>[Сет 10 - Придавки]"
 full<br>[Set 10 - Adjectives],полн<br>[Сет 10 - Придавки]
-orange<br>[Set 10 - Adjectives],портокалов<br>[Сет 10 - Придавки]
-"plump, chubby<br>[Set 10 - Adjectives]",полничок<br>[Сет 10 - Придавки]
-orange<br>[Set 10 - Adjectives],оранж<br>[Сет 10 - Придавки]
+orange<br>[Set 10 - Adjectives],"порт<span style=""font-weight:600;"">о</span>калов<br>[Сет 10 - Придавки]"
+"plump, chubby<br>[Set 10 - Adjectives]","п<span style=""font-weight:600;"">о</span>лнич<span style=""text-decoration: underline;"">о</span>к<br>[Сет 10 - Придавки]"
+orange<br>[Set 10 - Adjectives],"<span style=""font-weight:600;"">о</span>ранж<br>[Сет 10 - Придавки]"
 straight; correct<br>[Set 10 - Adjectives],прав<br>[Сет 10 - Придавки]
-pleasant<br>[Set 10 - Adjectives],пријатен<br>[Сет 10 - Придавки]
-pink<br>[Set 10 - Adjectives],розов<br>[Сет 10 - Придавки]
-industrious<br>[Set 10 - Adjectives],работлив<br>[Сет 10 - Придавки]
-blond<br>[Set 10 - Adjectives],руса коса<br>[Сет 10 - Придавки]
-"bright, light<br>[Set 10 - Adjectives]",светол<br>[Сет 10 - Придавки]
-nice<br>[Set 10 - Adjectives],симпатичен<br>[Сет 10 - Придавки]
-poor<br>[Set 10 - Adjectives],сиромашен<br>[Сет 10 - Придавки]
-silver<br>[Set 10 - Adjectives],сребрен<br>[Сет 10 - Придавки]
-stubborn<br>[Set 10 - Adjectives],тврдоглав<br>[Сет 10 - Придавки]
-dark<br>[Set 10 - Adjectives],темен<br>[Сет 10 - Придавки]
-bald<br>[Set 10 - Adjectives],ќелав<br>[Сет 10 - Придавки]
-brave<br>[Set 10 - Adjectives],храбар<br>[Сет 10 - Придавки]
-"honest, fair, trustworthy<br>[Set 10 - Adjectives]",чесен<br>[Сет 10 - Придавки]
-drive<br>[Set 10 - Verbs],вози<br>[Сет 10 - Глаголи]
-"lose, get lost<br>[Set 10 - Verbs]",губи/изгуби<br>[Сет 10 - Глаголи]
-be late<br>[Set 10 - Verbs],доцни/задоцни<br>[Сет 10 - Глаголи]
-forget<br>[Set 10 - Verbs],заборава/заборави<br>[Сет 10 - Глаголи]
-"look, seem, appear<br>[Set 10 - Verbs]",изгледа<br>[Сет 10 - Глаголи]
-"miss, omit<br>[Set 10 - Verbs]",испушта/испушти<br>[Сет 10 - Глаголи]
-explain (to someone)<br>[Set 10 - Verbs],објаснува/објасни кому<br>[Сет 10 - Глаголи]
-suggest<br>[Set 10 - Verbs],предлага/предложи<br>[Сет 10 - Глаголи]
-smoke<br>[Set 10 - Verbs],пуши<br>[Сет 10 - Глаголи]
-consider<br>[Set 10 - Verbs],размислува/размисли<br>[Сет 10 - Глаголи]
-"break down, spoil<br>[Set 10 - Verbs]",се расипува/се расипе<br>[Сет 10 - Глаголи]
-spend money<br>[Set 10 - Verbs],троши/потроши<br>[Сет 10 - Глаголи]
-treat (someone to something)<br>[Set 10 - Verbs],чести некого со нешто<br>[Сет 10 - Глаголи]
-congratulate<br>[Set 10 - Verbs],честита<br>[Сет 10 - Глаголи]
-at least<br>[Set 10 - Adverbs],барем<br>[Сет 10 - Прилози]
-"probably, likely<br>[Set 10 - Adverbs]",веројатно<br>[Сет 10 - Прилози]
-easily<br>[Set 10 - Adverbs],лесно<br>[Сет 10 - Прилози]
-"maybe, possibly<br>[Set 10 - Adverbs]",можеби<br>[Сет 10 - Прилози]
-although<br>[Set 10 - Conjunction],иако<br>[Сет 10 - Сврзник]
-I would like<br>[Set 10 - Expressions],би сакала<br>[Сет 10 - Изрази]
-it would be good<br>[Set 10 - Expressions],добро би било<br>[Сет 10 - Изрази]
-"nearly, just about<br>[Set 10 - Expressions]",за малку<br>[Сет 10 - Изрази]
-you are right.<br>[Set 10 - Expressions],имаш/имате право<br>[Сет 10 - Изрази]
-how does he/she look?<br>[Set 10 - Expressions],како изгледа?<br>[Сет 10 - Изрази]
-what does it mean?<br>[Set 10 - Expressions],што значи?<br>[Сет 10 - Изрази]
+pleasant<br>[Set 10 - Adjectives],"пр<span style=""font-weight:600;"">и</span>јатен<br>[Сет 10 - Придавки]"
+pink<br>[Set 10 - Adjectives],"р<span style=""font-weight:600;"">о</span>зов<br>[Сет 10 - Придавки]"
+industrious<br>[Set 10 - Adjectives],"р<span style=""font-weight:600;"">а</span>ботлив<br>[Сет 10 - Придавки]"
+blond<br>[Set 10 - Adjectives],"р<span style=""font-weight:600;"">у</span>са к<span style=""font-weight:600;"">о</span>са<br>[Сет 10 - Придавки]"
+"bright, light<br>[Set 10 - Adjectives]","св<span style=""font-weight:600;"">е</span>т<span style=""text-decoration: underline;"">о</span>л<br>[Сет 10 - Придавки]"
+nice<br>[Set 10 - Adjectives],"симп<span style=""font-weight:600;"">а</span>тич<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
+poor<br>[Set 10 - Adjectives],"сир<span style=""font-weight:600;"">о</span>маш<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
+silver<br>[Set 10 - Adjectives],"ср<span style=""font-weight:600;"">е</span>брен<br>[Сет 10 - Придавки]"
+stubborn<br>[Set 10 - Adjectives],"тврд<span style=""font-weight:600;"">о</span>глав<br>[Сет 10 - Придавки]"
+dark<br>[Set 10 - Adjectives],"т<span style=""font-weight:600;"">е</span>м<span style=""text-decoration: underline;"">е</span>н<br>[Сет 10 - Придавки]"
+bald<br>[Set 10 - Adjectives],"ќ<span style=""font-weight:600;"">е</span>лав<br>[Сет 10 - Придавки]"
+brave<br>[Set 10 - Adjectives],"хр<span style=""font-weight:600;"">а</span>б<span style=""text-decoration: underline;"">а</span>р<br>[Сет 10 - Придавки]"
+"honest, fair, trustworthy<br>[Set 10 - Adjectives]","ч<span style=""font-weight:600;"">е</span>сен<br>[Сет 10 - Придавки]"
+drive<br>[Set 10 - Verbs],"в<span style=""font-weight:600;"">о</span>зи<br>[Сет 10 - Глаголи]"
+"lose, get lost<br>[Set 10 - Verbs]","г<span style=""font-weight:600;"">у</span>би/<span style=""font-weight:600;"">и</span>згуби<br>[Сет 10 - Глаголи]"
+be late<br>[Set 10 - Verbs],"д<span style=""font-weight:600;"">о</span>цни/з<span style=""font-weight:600;"">а</span>доцни<br>[Сет 10 - Глаголи]"
+forget<br>[Set 10 - Verbs],"заб<span style=""font-weight:600;"">о</span>рава/заб<span style=""font-weight:600;"">о</span>рави<br>[Сет 10 - Глаголи]"
+"look, seem, appear<br>[Set 10 - Verbs]","<span style=""font-weight:600;"">и</span>згледа<br>[Сет 10 - Глаголи]"
+"miss, omit<br>[Set 10 - Verbs]","<span style=""font-weight:600;"">и</span>спушта/<span style=""font-weight:600;"">и</span>спушти<br>[Сет 10 - Глаголи]"
+explain (to someone)<br>[Set 10 - Verbs],"обј<span style=""font-weight:600;"">а</span>снува/<span style=""font-weight:600;"">о</span>бјасни к<span style=""font-weight:600;"">о</span>му<br>[Сет 10 - Глаголи]"
+suggest<br>[Set 10 - Verbs],"пр<span style=""font-weight:600;"">е</span>длага/пр<span style=""font-weight:600;"">е</span>дложи<br>[Сет 10 - Глаголи]"
+smoke<br>[Set 10 - Verbs],"п<span style=""font-weight:600;"">у</span>ши<br>[Сет 10 - Глаголи]"
+consider<br>[Set 10 - Verbs],"разм<span style=""font-weight:600;"">и</span>слува/р<span style=""font-weight:600;"">а</span>змисли<br>[Сет 10 - Глаголи]"
+"break down, spoil<br>[Set 10 - Verbs]","се рас<span style=""font-weight:600;"">и</span>пува/се р<span style=""font-weight:600;"">а</span>сипе<br>[Сет 10 - Глаголи]"
+spend money<br>[Set 10 - Verbs],"тр<span style=""font-weight:600;"">о</span>ши/п<span style=""font-weight:600;"">о</span>троши<br>[Сет 10 - Глаголи]"
+treat (someone to something)<br>[Set 10 - Verbs],"ч<span style=""font-weight:600;"">е</span>сти н<span style=""font-weight:600;"">е</span>кого со н<span style=""font-weight:600;"">е</span>што<br>[Сет 10 - Глаголи]"
+congratulate<br>[Set 10 - Verbs],"ч<span style=""font-weight:600;"">е</span>стита<br>[Сет 10 - Глаголи]"
+at least<br>[Set 10 - Adverbs],"б<span style=""font-weight:600;"">а</span>рем<br>[Сет 10 - Прилози]"
+"probably, likely<br>[Set 10 - Adverbs]","вер<span style=""font-weight:600;"">о</span>јатно<br>[Сет 10 - Прилози]"
+easily<br>[Set 10 - Adverbs],"л<span style=""font-weight:600;"">е</span>сно<br>[Сет 10 - Прилози]"
+"maybe, possibly<br>[Set 10 - Adverbs]","м<span style=""font-weight:600;"">о</span>жеби<br>[Сет 10 - Прилози]"
+although<br>[Set 10 - Conjunction],"<span style=""font-weight:600;"">и</span>ако<br>[Сет 10 - Сврзник]"
+I would like<br>[Set 10 - Expressions],"би с<span style=""font-weight:600;"">а</span>кала<br>[Сет 10 - Изрази]"
+it would be good<br>[Set 10 - Expressions],"д<span style=""font-weight:600;"">о</span>бро би б<span style=""font-weight:600;"">и</span>ло<br>[Сет 10 - Изрази]"
+"nearly, just about<br>[Set 10 - Expressions]","за м<span style=""font-weight:600;"">а</span>лку<br>[Сет 10 - Изрази]"
+you are right.<br>[Set 10 - Expressions],"<span style=""font-weight:600;"">и</span>маш/<span style=""font-weight:600;"">и</span>мате пр<span style=""font-weight:600;"">а</span>во<br>[Сет 10 - Изрази]"
+how does he/she look?<br>[Set 10 - Expressions],"к<span style=""font-weight:600;"">а</span>ко <span style=""font-weight:600;"">и</span>згледа?<br>[Сет 10 - Изрази]"
+what does it mean?<br>[Set 10 - Expressions],"што зн<span style=""font-weight:600;"">а</span>чи?<br>[Сет 10 - Изрази]"

@@ -28,7 +28,7 @@ cat<br>[Set 03 - Nouns],"м<span style=""font-weight:600;"">а</span>чка<br>[
 letter<br>[Set 03 - Nouns],"п<span style=""font-weight:600;"">и</span>смо<br>[Сет 03 - Именки]"
 greeting<br>[Set 03 - Nouns],"п<span style=""font-weight:600;"">о</span>здрав<br>[Сет 03 - Именки]"
 message; email<br>[Set 03 - Nouns],порака<br>[Сет 03 - Именки]
-friend (male/female)<br>[Set 03 - Nouns],"пр<span style=""font-weight:600;"">и</span>јател / приј<span style=""font-weight:600;"">а</span>телка<br>[Сет 03 - Именки]"
+friend (male/female)<br>[Set 03 - Nouns],"пр<span style=""font-weight:600;"">и</span>јател/приј<span style=""font-weight:600;"">а</span>телка<br>[Сет 03 - Именки]"
 "hand, arm<br>[Set 03 - Nouns]","р<span style=""font-weight:600;"">а</span>ка (мн. р<span style=""font-weight:600;"">а</span>це)<br>[Сет 03 - Именки]"
 parent<br>[Set 03 - Nouns],"р<span style=""font-weight:600;"">о</span>дител<br>[Сет 03 - Именки]"
 novel<br>[Set 03 - Nouns],"р<span style=""font-weight:600;"">о</span>ман<br>[Сет 03 - Именки]"
@@ -87,7 +87,9 @@ often<br>[Set 03 - Adverbs],"ч<span style=""font-weight:600;"">е</span>сто<
 "by, up to, beside<br>[Set 03 - Prepositions]",до<br>[Сет 03 - Предлози]
 for<br>[Set 03 - Prepositions],за<br>[Сет 03 - Предлози]
 "of, about; in, to, on, at<br>[Set 03 - Prepositions]",на<br>[Сет 03 - Предлози]
-"from, by по  about; along со  with, by<br>[Set 03 - Prepositions]",од<br>[Сет 03 - Предлози]
+"from, by<br>[Set 03 - Prepositions]",од<br>[Сет 03 - Предлози]
+about; along<br>[Set 03 - Prepositions],по<br>[Сет 03 - Предлози]
+"with, by<br>[Set 03 - Prepositions]",со<br>[Сет 03 - Предлози]
 but<br>[Set 03 - Conjunctions],"<span style=""font-weight:600;"">а</span>ма<br>[Сет 03 - Сврзници]"
 because<br>[Set 03 - Conjunctions],"з<span style=""font-weight:600;"">а</span>тоа што<br>[Сет 03 - Сврзници]"
 and; also<br>[Set 03 - Conjunctions],и<br>[Сет 03 - Сврзници]
